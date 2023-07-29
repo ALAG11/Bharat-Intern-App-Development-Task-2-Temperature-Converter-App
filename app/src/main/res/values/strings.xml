@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConvert</string>
+    <string name="write_temperature_in_c">Write Temperature (in °C)</string>
+    <string name="convert">Convert</string>
+    <string name="write_temperature_in_f">Write Temperature (in °F)</string>
+    <string name="todo">TODO</string>
+</resources>
